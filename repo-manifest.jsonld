@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytoolz/toolz/commit/451af60dec590a6010e2babdbf391ea8f815122f",
       "git:hexsha": "451af60dec590a6010e2babdbf391ea8f815122f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.2.0"
     },
     {
