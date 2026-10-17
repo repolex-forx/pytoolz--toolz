@@ -1,0 +1,11 @@
+{
+  "org": "pytoolz",
+  "repo": "toolz",
+  "versions": [
+    {
+      "commit": "451af60dec590a6010e2babdbf391ea8f815122f",
+      "tag": "1.2.0",
+      "parsed_at": "2026-10-17T22:53:59.596802+00:00"
+    }
+  ]
+}
